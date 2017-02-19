@@ -1,0 +1,9 @@
+exports[`test Error renders 1`] = `
+<div>
+  <h1
+    className="f2 lh-solid fw6 mw6 mt5 center tc">
+     
+    An error has occured on Client
+  </h1>
+</div>
+`;
